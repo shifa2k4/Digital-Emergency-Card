@@ -1,0 +1,13 @@
+dbconnection.php
+.env
+.env.*
+qrcodes/
+qr_images/
+anuu.jpg
+gathz.jpg
+nifu.jpg
+shifa.jpg
+shifu.png
+DOC-20251011-WA0001.sql
+.vscode/
+qr/cache/
